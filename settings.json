@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "oru-server.aternos.me",
+    "port": 38223,
     "version": "",
     "try-creative": false
   },
